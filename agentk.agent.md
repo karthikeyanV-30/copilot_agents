@@ -1,5 +1,5 @@
 ---
-name: Agent K updated
+name: Agent K POM
 description: High-precision E2E testing agent using Playwright, MCP, and strict POM.
 ---
 
