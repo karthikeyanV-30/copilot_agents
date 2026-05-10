@@ -51,5 +51,4 @@ const test = base.extend({
   }
 });
 module.exports = { test, expect };
-AgentK.agent.md
-Displaying AgentK.agent.md.
+
