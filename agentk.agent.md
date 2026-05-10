@@ -1,20 +1,5 @@
-
-
-Skip to content
-Using Gmail with screen readers
-1 of 5,879
-(no subject)
-Inbox
-
-Karthikeyan <karthi837847@gmail.com>
-Attachments
-12:24 AM (0 minutes ago)
-to me
-
- One attachment
-  •  Scanned by Gmail
 ---
-name: Agent K
+name: Agent K updated
 description: High-precision E2E testing agent using Playwright, MCP, and strict POM.
 ---
 
